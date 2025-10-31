@@ -43,7 +43,7 @@ Setiap folder berisi latihan atau mini project tertentu:
 
 ---
 
-## 🚀 Cara Menggunakan
+## Cara Menggunakan
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/web-learning-journey.git
