@@ -31,6 +31,9 @@ Setiap folder berisi latihan atau mini project tertentu:
 ├── Belajar buat web - 1
 │ └── latihan membuat web sederhana pertama
 │
+├── Web bootstrap
+│ └── latihan membuat web sederhana menggunakan bootstrap berdasarkan tutorial youtube
+│
 └── README.md
 *(Struktur ini akan terus bertambah seiring aku belajar lebih jauh )*
 
