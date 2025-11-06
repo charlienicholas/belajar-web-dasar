@@ -46,4 +46,4 @@ Setiap folder berisi latihan atau mini project tertentu:
 ## Cara Menggunakan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/web-learning-journey.git
+   git clone https://github.com/username/web-learning-journey.git](https://github.com/charlienicholas/belajar-web-dasar.git
