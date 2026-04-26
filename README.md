@@ -1,7 +1,7 @@
 ## Belajar Web Dasar — Dokumentasi Belajar Pemrograman Web
 
 Selamat datang di repositori ini! 
-Repository ini merupakan tempat dokumentasi perjalanan belajarku dalam **pemrograman web dasar**, mulai dari HTML, CSS, hingga JavaScript.  
+Repository ini merupakan tempat dokumentasi perjalanan belajarku dalam **pemrograman web dasar**, mulai dari HTML dan CSS.  
 Setiap folder di sini berisi proyek kecil atau latihan yang aku buat seiring proses belajarku.
 
 ---
@@ -42,7 +42,6 @@ Setiap folder berisi latihan atau mini project tertentu:
 ## Teknologi yang Digunakan
 - **HTML** — struktur dasar halaman web  
 - **CSS** — styling dan animasi  
-- **JavaScript** — interaktivitas (saat ini belum ada)  
 
 ---
 
