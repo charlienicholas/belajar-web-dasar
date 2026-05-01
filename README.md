@@ -15,30 +15,6 @@ Repo ini dibuat sebagai catatan dan arsip pribadi untuk:
 
 ---
 
-## Struktur Repository
-Setiap folder berisi latihan atau mini project tertentu:
-/belajar-web-dasar
-│
-├── navbar dan footer
-│ └── latihan membuat navigasi dan footer website
-│
-├── loginPage
-│ └── latihan form login pertama
-│
-├── loginPage - 2
-│ └── latihan form login kedua
-│
-├── Belajar buat web - 1
-│ └── latihan membuat web sederhana pertama
-│
-├── Web bootstrap
-│ └── latihan membuat web sederhana menggunakan bootstrap berdasarkan tutorial youtube
-│
-└── README.md
-*(Struktur ini akan terus bertambah seiring aku belajar lebih jauh )*
-
----
-
 ## Teknologi yang Digunakan
 - **HTML** — struktur dasar halaman web  
 - **CSS** — styling dan animasi  
